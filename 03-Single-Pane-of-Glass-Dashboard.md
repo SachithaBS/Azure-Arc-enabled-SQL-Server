@@ -36,7 +36,7 @@ You will be able to complete the following tasks:
      
 2. In Dashboard page, under **Resource graph grid tile** click on **Configure tile**.
  
-   ![](media/Ex2-Task1-Step6.png)  
+      ![](media/Ex2-Task1-Step6.png)  
      
 3. Minimize the Azure Portal Browser window. 
   
@@ -44,19 +44,21 @@ You will be able to complete the following tasks:
   
    ![](media/Ex2-Task1-Step8.png)  
   
-5. Open the **Servers** script file by right-clicking on the file, select **Open With**, and then select **Notepad**. 
+5. Open the **Servers** script file by right-clicking on the file, select **Open With.** 
  
    ![](media/Ex2-Task1-Step9a.png)
+
+6. Then select **Notepad** and click **Ok**
      
    ![](media/Ex2-Task1-Step9b.png)  
      
-6. Copy the SQL query from the **Servers** file, and overwrite the sample query with the Servers query in the Dashboard query section. 
+7. Copy the SQL query from the **Servers** file, and overwrite the sample query with the Servers query in the Dashboard query section. 
  
    ![](media/Ex2-Task1-Step10.png)  
      
-7. Click on **Run Query (1)**, You should see something like the below with the SQL Servers you installed the **Azure Arc SQL Agent** as well as **Azure SQL Servers** **(2)** running in Azure and update the tile in the dashboard by selecting **Update pinned part on dashboard (3)**. 
+8. Click on **Run Query (1)**, You should see something like the below with the SQL Servers you installed the **Azure Arc SQL Agent** as well as **Azure SQL Servers** **(2)** running in Azure and update the tile in the dashboard by selecting **Update pinned part on dashboard (3)**. 
    
-    ![](media/az-ex3-1.png) 
+      ![](media/az-ex3-1.png) 
           
 ## Task 3: Adding Resource Graph Grid Tiles - Server by location Chart
      
